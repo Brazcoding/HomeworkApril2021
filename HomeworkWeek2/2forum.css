@@ -1,0 +1,25 @@
+body{
+    background: #efefef;
+    font-family: arial;
+}
+h1 {
+    font-size: 18px;
+}
+a{
+    color: #000;
+    text-decoration: underline;
+}
+a:hoover{
+    color: #000;
+    text-decoration: none;
+}
+html{
+    font-size: 14px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: ;
+}
+.html{
+    background-image:
+    linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0,0,255,0.5)),
+    url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Qgop3ZhyHXv_FLqrJ5K2jAHaE8%26pid%3DApi&f=1');
+}
